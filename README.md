@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishor0070
-- 👀 I’m interested in Embedded Software Development
-- 🌱 I’m currently working as an Embedded Application Developer. However I want to explore and work on core Embedded level applications. So, I am learning core Embedded software development by developing bare metal softwares for STM32 controller.
+- 👀 I’m interested in the software delopment using JAVA programming language.
+- I am new to the opern source contributions and making my way in it from scratch.
 
 <!---
 Kishor0070/Kishor0070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
